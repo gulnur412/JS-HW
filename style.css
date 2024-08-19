@@ -1,0 +1,62 @@
+.title {
+  padding-top: 70px;
+
+  }
+  
+
+  body{
+    background: url("https://cdn-takefoto-ru.ams3.cdn.digitaloceanspaces.com/articles/articles/12/Peyzazh__Kompozitsiya_i_svet_v_peyzazhe__3.jpg");
+background-size: cover;
+mask-repeat: no-repeat;
+}
+  
+  button{
+    padding-top: 50px;
+
+  }
+  h1{
+    padding-top: 50px;
+    padding-left: 100px;
+
+    color: blue;
+
+  }
+    input{
+      height: 30px;
+    border-color: blue;
+    }
+    h3{
+      font-size:x-large;
+    }
+
+  .input{
+    padding-left: 700px;
+    padding-top: 70px;
+    
+    
+  }
+.timerDisplay{
+    padding-left: 100px;
+    margin-bottom: 50px;
+}
+
+  button{
+    padding-left: 40px;
+    border-color:blue;
+    
+    
+  }
+  .content{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    padding-top: 100px;
+    padding-right: 300px;
+    padding-left: 350px;
+    
+  }
+  #divname{
+    width: 200px;
+    height: 200px;
+    border: 5px solid;
+  }
